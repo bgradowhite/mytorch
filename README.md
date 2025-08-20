@@ -1,5 +1,5 @@
 # mytorch
-This is a small, self-instructional project to learn the detailed structure of common neural network archtectures by building and training them. It uses torch tensors for efficiency of manipulation and built in automatic differentiation. 
+This is a small, self-instructional project to learn the detailed structure of common neural network architectures by building and training them. It uses torch tensors for efficiency of manipulation and built in automatic differentiation. 
 
 Included are 3 small demonstrations of functionality: 
 
